@@ -2,11 +2,11 @@
 
 Midnight theme for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
 
-[![Build Status](https://travis-ci.org/alexgorbatchev/theme-midnight.svg)](https://travis-ci.org/alexgorbatchev/theme-midnight)
+[![Build Status](https://travis-ci.org/syntaxhighlighter/theme-midnight.svg)](https://travis-ci.org/syntaxhighlighter/theme-midnight)
 
 ## Installation
 
-    npm install syntaxhighlighter/theme-midnight
+    npm install @alexgorbatchev/theme-midnight
 
 ## Testing
 
