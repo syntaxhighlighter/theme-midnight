@@ -1,5 +1,5 @@
 {
-  "name": "theme-midnight",
+  "name": "@alexgorbatchev/theme-midnight",
   "version": "4.0.0",
   "main": "theme.scss",
   "keywords": [
