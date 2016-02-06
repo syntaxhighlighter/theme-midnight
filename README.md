@@ -7,6 +7,8 @@
 
 Midnight theme for [SyntaxHighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter).
 
+![Screenshot](screenshot.png)
+
 ## Installation
 
 ```
